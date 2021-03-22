@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nikhil Sukumaran @nikhiblr
 - 👀 I’m interested in developping new application using python.
-- 🌱 I’m currently learning Python & REST API.
+- 🌱 I’m currently learning Python, Flutter & REST API.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
